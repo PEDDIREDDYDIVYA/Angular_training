@@ -1,0 +1,21 @@
+Responsive Web Designing:
+
+1.It uses fluid grids that gives the optimal experience irrespective of the website. No matter what the screen size is,
+the layout gets adjusted accordingly with the screen size.(Media queries are a key component of Responsive designing.)
+2.Harder to make.
+3.These web pages load slower compared to Adaptive web pages.(But this is not always the case)
+4.More flexible.
+5.Higher maintenance tasks
+6.This is budget friendly.
+
+
+Adaptive Web Designing:
+
+1.Here there are several distinct layouts for multipe screen sizes.The site detects the type of device used and 
+delivers the layout fot that device.There is no adjusting here.
+2.Easy to make.
+3.Adaptive web pages load faster.
+4.Less flexible.
+5.Lower maintenance tasks.
+6.This is little expensive.
+
